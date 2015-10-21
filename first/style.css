@@ -1,0 +1,78 @@
+html,body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.head {
+	position: relative;
+}	
+
+.centerleft {
+	background-color: red;
+	height: 30%;
+	width: 30%;
+	left: 0%;
+	bottom: 45%;
+	float: left;
+}
+
+.center {
+	background-color: blue;
+	height: 30%;
+	width: 70%;
+	left: 30%;
+	bottom: 45%;
+	float: left;
+}
+
+
+.block {
+	position: relative;
+	display: inline-block !important;
+	height: 20%;
+	width: 27.5%;
+}	
+
+.redbgc {
+	background-color: red;
+	margin: 2.5%;
+}
+
+.bluebgc {
+	background-color: blue;
+	margin: 2.5%;
+}
+
+.graybgc {
+	background-color: gray;
+	margin: 2.5%;
+}
+
+.foot {
+	position: relative;
+	background-color: blue;
+	height: 20%;
+	width: 100%;
+	float: left;
+}
+
+.footbox {
+	position: absolute;
+	bottom: 0%;
+	left: 22%;
+	background-color: gray;
+	height: 100%;
+	width: 60%;
+
+}
+
+.bars {
+	background-color: red;
+	position: relative;
+	left: 75%;
+	bottom: 0%;
+	height: 100%;
+	width: 25%;
+}
+
