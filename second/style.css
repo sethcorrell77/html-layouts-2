@@ -1,0 +1,81 @@
+html,body {
+	height: 100%;
+	width: 100%;
+}
+
+.backdrop {
+	background-color: gray;
+	height: 100%;
+	width: 100%;
+}
+
+.texta {
+	padding: 5px;
+}
+
+.topp{
+	position: relative;
+	top: 15%;
+	left: 12%;
+	background-color: white;
+	height: 30%;
+	width: 75%;
+}
+
+.button1 {
+	position: absolute;
+	left: 5%;
+	bottom: 15%;
+	background-color: red;
+	width: 10%;
+	height: 15%;
+	text-align: center;
+	color: white;
+}
+
+.button2 {
+	position: absolute;
+	left: 20%;
+	bottom: 15%;
+	background-color: blue; 	
+	width: 10%;
+	height: 15%;
+	text-align: center;
+	color: white;
+}
+
+.bottombox {
+	position: relative;
+	top: 20%;
+	left: 12%;
+	background-color: white;
+	height: 45%;
+	width: 75%;
+}
+
+.imagebox {
+	position: absolute;
+	left: 30%;
+	top: 5%;
+	background-color: gray;
+	height: 40%;
+	width: 35%;
+	text-align: center;
+	font-size: 80%;
+	color: white;
+}
+
+.textb {
+	padding: 15%;
+}
+
+.footbar {
+	position: relative;
+	top: 15%;
+	height: 10%;
+	width: 100%;
+	background-color: black;
+	font-size: 34px;
+	color: white;
+	text-align: right;
+}
