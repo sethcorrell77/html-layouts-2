@@ -1,0 +1,47 @@
+.bar {
+	background-color: black;
+	height: 60px;
+	width: 1024px;
+}
+
+.top {
+	position: relative;
+	top: 0px;
+}
+
+.bottom {
+	position: relative;
+	bottom: 0px;
+}
+
+.blackbar {
+	font-size: 40px;
+	text-align: left;
+	color: white;
+}
+
+p {
+	font-size: 20px;
+}
+
+.textlarge {	
+	font-size: 40px;
+	font-family: Arial;
+}
+
+.column {	
+	position: relative;
+	top: 20px;
+	display: inline-block;
+	height: 750px;
+	width: 400px;-
+	border-collapse: collapse;
+}
+
+.blocky {
+	position: relative;
+	top: 25px;
+	background-color: gray;
+	height: 350px;
+	width: 350px;
+}
